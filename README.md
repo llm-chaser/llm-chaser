@@ -1,5 +1,7 @@
-Hi everyone 👋,I'm jiajun Wu.
+Hi everyone,I'm jiajun Wu.
 
 Here is my [personal website](https://llm-chaser.github.io).
 
-🔭 I'm currently working on Natural Language Processing (NLP), Large Language Models (LLMs), and Multimodal Intelligence.
+I'm currently working on Natural Language Processing (NLP), Large Language Models (LLMs), and Multimodal Intelligence.
+
+I’m always open to academic discussions and collaborations.
