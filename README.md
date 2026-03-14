@@ -1,5 +1,6 @@
-Hi everyone,I'm jiajun Wu.
+Hi everyone, I'm Jiajun Wu.
 
+I love LLMs. 🚀  
+Welcome to my personal homepage:
 
-I love LLMs.🚀
-
+https://llm-chaser.github.io
